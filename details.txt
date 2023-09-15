@@ -1,0 +1,2 @@
+weather url = 'https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&units=metric'
+weather API_KEY = ee1c1ccd82e3cf4908a3498f42a876a8
